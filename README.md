@@ -1,2 +1,2 @@
-Aizu Online Judge における作成&使用したプログラム  
-学習用のため、主に[C, Java, Python]が入り乱れています。
+Aizu Online Judge に提出・使用したプログラムをまとめています。  
+主に C、Java、Python を使用しており、学習のため、使用した言語は問題によって異なります。
