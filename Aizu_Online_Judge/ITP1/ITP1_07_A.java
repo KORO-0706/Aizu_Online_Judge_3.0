@@ -1,6 +1,6 @@
 import java.io.*;
 
-public class ITP1_7_A {
+public class ITP1_07_A {
     public static void main(String[] args) throws IOException{
         BufferedReader line = new BufferedReader(new InputStreamReader(System.in));
         int[] m = new int[50+1];//中間試験

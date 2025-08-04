@@ -1,5 +1,5 @@
 import java.io.*;
-public class ITP1_6_D{
+public class ITP1_06_D{
     public static void main(String[] args)throws IOException{
         BufferedReader line = new BufferedReader(new InputStreamReader(System.in));
         String[] nm = line.readLine().split(" ");
