@@ -1,6 +1,6 @@
 import java.io.*;
 
-public class ITP1_1_C{
+public class ITP1_01_C{
     public static void main(String[] args)throws IOException{
         BufferedReader line = new BufferedReader(new InputStreamReader(System.in)); 
         String[] figure = line.readLine().split(" ");

@@ -1,5 +1,5 @@
 import java.io.*;
-public class ITP1_3_D {
+public class ITP1_03_D {
     public static void main(String[] args){
         BufferedReader line = new BufferedReader(new InputStreamReader(System.in));
         int a, b, c;

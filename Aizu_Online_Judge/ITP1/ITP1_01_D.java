@@ -1,6 +1,6 @@
 import java.io.*;
 
-public class ITP1_1_D{
+public class ITP1_01_D{
     public static void main(String[] args)throws IOException{
         BufferedReader line = new BufferedReader(new InputStreamReader(System.in)); 
         int S = Integer.parseInt(line.readLine());
