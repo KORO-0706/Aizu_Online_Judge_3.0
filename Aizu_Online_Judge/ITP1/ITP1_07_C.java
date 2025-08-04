@@ -6,7 +6,7 @@ public class ITP1_07_C {
         String[] rc = line.readLine().split(" ");
         int r = Integer.parseInt(rc[0]);
         int c = Integer.parseInt(rc[1]);
-        int sum = 0;
+        //int sum = 0;
         
         int[][] box = new int[r+2][c+2];
         for(int i = 1; i <= r; i++){
